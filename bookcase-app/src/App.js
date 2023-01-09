@@ -3,8 +3,9 @@ import Book from './components/Book';
 import data from './models/books.json';
 
 function App() {
-  const books = data;
-  return <Book/>;
+  const Book  = 'data';
+  
+   return <Book/>;
 }
 
 export default App;

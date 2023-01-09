@@ -1,0 +1,15 @@
+.main-button {
+  background-color: red;
+  position: center;
+  color: #fff;
+  border: 0;
+  padding: 10px 20px;
+  font-weight: bold;
+  border-radius: 5px;
+  font-size: 1.1em;
+  
+}
+
+.text-center {
+  text-align: center;
+}
